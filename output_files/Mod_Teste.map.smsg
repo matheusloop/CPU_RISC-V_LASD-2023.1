@@ -1,0 +1,11 @@
+Info (10281): Verilog HDL Declaration information at Mod_Teste.v(9): object "HEX0" differs only in case from object "hex0" in the same scope
+Info (10281): Verilog HDL Declaration information at Mod_Teste.v(9): object "HEX1" differs only in case from object "hex1" in the same scope
+Info (10281): Verilog HDL Declaration information at Mod_Teste.v(9): object "HEX2" differs only in case from object "hex2" in the same scope
+Info (10281): Verilog HDL Declaration information at Mod_Teste.v(9): object "HEX3" differs only in case from object "hex3" in the same scope
+Info (10281): Verilog HDL Declaration information at Mod_Teste.v(9): object "HEX4" differs only in case from object "hex4" in the same scope
+Info (10281): Verilog HDL Declaration information at Mod_Teste.v(9): object "HEX5" differs only in case from object "hex5" in the same scope
+Info (10281): Verilog HDL Declaration information at Mod_Teste.v(9): object "HEX6" differs only in case from object "hex6" in the same scope
+Info (10281): Verilog HDL Declaration information at Mod_Teste.v(9): object "HEX7" differs only in case from object "hex7" in the same scope
+Warning (10268): Verilog HDL information at LCD_ShowReg.v(99): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at Sprint03_RegisterBank.sv(15): always construct contains both blocking and non-blocking assignments
+Warning (10273): Verilog HDL warning at Sprint05_ControlUnit.sv(82): extended using "x" or "z"
