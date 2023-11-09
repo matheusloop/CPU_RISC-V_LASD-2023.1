@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Mod_Teste">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Mod_Teste|ULA:ula01|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_nto.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Mod_Teste|ULA:ula01|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_qlo.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Mod_Teste|ULA:ula01|lpm_mult:Mult0" CBX_FILE_NAME="mult_i1t.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
